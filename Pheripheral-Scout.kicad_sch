@@ -2311,7 +2311,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x07_Top_Bottom"
+		(property "Value" "CA2314PA10Z"
 			(at 123.19 63.5 0)
 			(effects
 				(font
@@ -2328,7 +2328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2689/CA2305SA.pdf"
 			(at 121.92 74.93 0)
 			(effects
 				(font
@@ -2337,7 +2337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/cvilux-usa/CA2314PA10Z/15519144"
 			(at 121.92 74.93 0)
 			(effects
 				(font
