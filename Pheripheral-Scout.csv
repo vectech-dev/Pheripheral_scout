@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"J1","Top_Lights","http://www.jst-mfg.com/product/pdf/eng/eXH.pdf","digikey-footprints:PinHeader_1x2_P2mm_Drill1mm","1",""
+"J2","Bottom_Lights","http://www.jst-mfg.com/product/pdf/eng/eXH.pdf","digikey-footprints:PinHeader_1x2_P2mm_Drill1mm","1",""
+"J3","Switch_1","http://www.jst-mfg.com/product/pdf/eng/eXH.pdf","digikey-footprints:PinHeader_1x2_P2mm_Drill1mm","1",""
+"J4","Switch_2","http://www.jst-mfg.com/product/pdf/eng/eXH.pdf","digikey-footprints:PinHeader_1x2_P2mm_Drill1mm","1",""
+"J5","Motor","http://www.jst-mfg.com/product/pdf/eng/eXH.pdf","digikey-footprints:PinHeader_1x4_P2mm_Drill1mm","1",""
+"J6","CA2314PA10Z","https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2689/CA2305SA.pdf","Connector_IDC:IDC-Header_2x07_P2.54mm_Vertical","1",""
